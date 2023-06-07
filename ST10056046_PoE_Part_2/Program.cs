@@ -60,7 +60,7 @@ namespace ST10056046_PoE_Part_2
             inputIngred.Clear();
             inputSteps.Clear();
 
-            inputIngred.Add(new Ingredients("Bread", 2, "Slices", "Starch", 28));
+            inputIngred.Add(new Ingredients("Bread", 2, "Slices", "Grains/Carbs", 28));
             inputIngred.Add(new Ingredients("Butter", 1, "Cup(s)", "Fats", 5));
             inputIngred.Add(new Ingredients("Cheese", 2, "Slices", "Fats", 20));
 
@@ -80,6 +80,8 @@ namespace ST10056046_PoE_Part_2
         static void Run()
         {
             Console.WriteLine("Welcome to our recipe app!");
+
+            Console.WriteLine(recipeHolder["Burger"].Items);
 
             while (true)
             {
