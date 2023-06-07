@@ -81,8 +81,6 @@ namespace ST10056046_PoE_Part_2
         {
             Console.WriteLine("Welcome to our recipe app!");
 
-            Console.WriteLine(recipeHolder["Burger"].Items);
-
             while (true)
             {
                 Console.WriteLine("Choose an option:\n1. Display\n2. View\n3. Add\n4. Delete\n5. Exit");
@@ -429,11 +427,11 @@ namespace ST10056046_PoE_Part_2
     public class Ingredients
     {
         public string toOut = default;
-        public string Name;
-        public double Amount;
-        public string Unit;
-        public string FoodGroup;
-        public int Calories;
+        public string Name = default;
+        public double Amount = default;
+        public string Unit = default;
+        public string FoodGroup = default;
+        public int Calories = default;
 
         public Ingredients(string name, double amount, string unit, string foodGroup, int calories)
         {
