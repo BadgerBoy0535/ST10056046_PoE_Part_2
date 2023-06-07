@@ -1,0 +1,8 @@
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\bin\Debug\ST10056046_PoE_Part_2.exe.config
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\bin\Debug\ST10056046_PoE_Part_2.exe
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\bin\Debug\ST10056046_PoE_Part_2.pdb
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\obj\Debug\ST10056046_PoE_Part_2.csproj.AssemblyReference.cache
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\obj\Debug\ST10056046_PoE_Part_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\obj\Debug\ST10056046_PoE_Part_2.csproj.CoreCompileInputs.cache
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\obj\Debug\ST10056046_PoE_Part_2.exe
+C:\Users\Widske\source\repos\ST10056046_PoE_Part_2\ST10056046_PoE_Part_2\obj\Debug\ST10056046_PoE_Part_2.pdb

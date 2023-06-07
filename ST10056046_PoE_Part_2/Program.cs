@@ -60,7 +60,7 @@ namespace ST10056046_PoE_Part_2
             inputIngred.Clear();
             inputSteps.Clear();
 
-            inputIngred.Add(new Ingredients("Bread", 2, "Slices", "Grains/Carbs", 28));
+            inputIngred.Add(new Ingredients("Bread", 2, "Slices", "Starch", 28));
             inputIngred.Add(new Ingredients("Butter", 1, "Cup(s)", "Fats", 5));
             inputIngred.Add(new Ingredients("Cheese", 2, "Slices", "Fats", 20));
 
@@ -427,11 +427,11 @@ namespace ST10056046_PoE_Part_2
     public class Ingredients
     {
         public string toOut = default;
-        public string Name = default;
-        public double Amount = default;
-        public string Unit = default;
-        public string FoodGroup = default;
-        public int Calories = default;
+        public string Name;
+        public double Amount;
+        public string Unit;
+        public string FoodGroup;
+        public int Calories;
 
         public Ingredients(string name, double amount, string unit, string foodGroup, int calories)
         {
